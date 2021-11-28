@@ -1,7 +1,10 @@
 # Vampyric-Dark
-purple #383a59  
-black #1e202b  
-light dark #282a36  
-red #701e30  
-green #30701e  
-blue #39698b  
+Accent color #383a59   
+Black #282a36  
+Red #e04848  
+Green #59de47  
+Yellow #e3db4b  
+Blue #4e72e6  
+Purple #6550eb  
+Cyan #54a7f0  
+White #f8f8f2  
