@@ -1,6 +1,7 @@
 # Vampyric-Dark
 Accent color #383a59   
-Black #18191f  
+Background color #18191f  
+Black #3b3c4a  
 Red #e04848  
 Green #59de47  
 Yellow #e3db4b  
