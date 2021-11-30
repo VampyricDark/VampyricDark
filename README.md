@@ -69,7 +69,7 @@ There will also be a spec sheet so that you can have a better idea on how to imp
 
 ## License
 
-Distributed under GPLv3 License. See `LICENSE` for more information.
+Distributed under MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
