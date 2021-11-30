@@ -48,20 +48,20 @@ The colors used in this theme are as follows:
 
 <div align="center">
 
-Palette      | Hex       | RGB   | HSL | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
+Palette      | Hex       | RGB   | HSL | ![Color Picker Boxes](://draculatheme.com/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---   | --- | ---
-Accent       | `#383a59` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Background   | `#18191f` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Black        | `#3b3c4a` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Red          | `#e04848` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Green        | `#59de47` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Yellow       | `#e3db4b` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Blue         | `#4e72e6` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Purple       | `#6550eb` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Magenta      | `#ff59c5` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Cyan         | `#54a7f0` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-White        | `#f8f8f2` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Grey         | `#949494` | ``    | ``  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
+Accent       | `#383a59` | ``    | ``  | ![Accent Color](color_imgs/accent.png)
+Background   | `#18191f` | ``    | ``  | ![Background Color](color_imgs/background.png)
+Black        | `#3b3c4a` | ``    | ``  | ![Black Color](color_imgs/black.png)
+Red          | `#e04848` | ``    | ``  | ![Red Color](color_imgs/red.png)
+Green        | `#59de47` | ``    | ``  | ![Green Color](color_imgs/green.png)
+Yellow       | `#e3db4b` | ``    | ``  | ![Yellow Color](color_imgs/yellow.png)
+Blue         | `#4e72e6` | ``    | ``  | ![Blue Color](color_imgs/blue.png)
+Purple       | `#6550eb` | ``    | ``  | ![Purple Color](color_imgs/purple.png)
+Magenta      | `#ff59c5` | ``    | ``  | ![Magenta Color](color_imgs/magenta.png)
+Cyan         | `#54a7f0` | ``    | ``  | ![Cyan Color](color_imgs/cyan.png)
+White        | `#f8f8f2` | ``    | ``  | ![White Color](color_imgs/white.png)
+Grey         | `#949494` | ``    | ``  | ![Grey Color](color_imgs/grey.png)
   
 </div>
 
