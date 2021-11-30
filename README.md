@@ -48,20 +48,20 @@ The colors used in this theme are as follows:
 
 <div align="center">
 
-Palette      | Hex       | RGB   | HSL | ![Color Picker Boxes](://draculatheme.com/static/img/color-boxes/eyedropper.png)
+Palette      | Hex       | RGB   | HSL | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---   | --- | ---
-Accent       | `#383a59` | ``    | ``  | ![Accent Color](color_imgs/accent.png)
-Background   | `#18191f` | ``    | ``  | ![Background Color](color_imgs/background.png)
-Black        | `#3b3c4a` | ``    | ``  | ![Black Color](color_imgs/black.png)
-Red          | `#e04848` | ``    | ``  | ![Red Color](color_imgs/red.png)
-Green        | `#59de47` | ``    | ``  | ![Green Color](color_imgs/green.png)
-Yellow       | `#e3db4b` | ``    | ``  | ![Yellow Color](color_imgs/yellow.png)
-Blue         | `#4e72e6` | ``    | ``  | ![Blue Color](color_imgs/blue.png)
-Purple       | `#6550eb` | ``    | ``  | ![Purple Color](color_imgs/purple.png)
-Magenta      | `#ff59c5` | ``    | ``  | ![Magenta Color](color_imgs/magenta.png)
-Cyan         | `#54a7f0` | ``    | ``  | ![Cyan Color](color_imgs/cyan.png)
-White        | `#f8f8f2` | ``    | ``  | ![White Color](color_imgs/white.png)
-Grey         | `#949494` | ``    | ``  | ![Grey Color](color_imgs/grey.png)
+Accent       | `#383a59` | ``    | ``  | <img alt="Accent Color" src="color_imgs/accent.png" height=24/>
+Background   | `#18191f` | ``    | ``  | <img alt="Background Color" src="color_imgs/background.png" height=24/>
+Black        | `#3b3c4a` | ``    | ``  | <img alt="Black Color" src="color_imgs/black.png" height=24/>
+Red          | `#e04848` | ``    | ``  | <img alt="Red Color" src="color_imgs/red.png" height=24/>
+Green        | `#59de47` | ``    | ``  | <img alt="Green Color" src="color_imgs/green.png" height=24/>
+Yellow       | `#e3db4b` | ``    | ``  | <img alt="Yellow Color" src="color_imgs/yellow.png" height=24/>
+Blue         | `#4e72e6` | ``    | ``  | <img alt="Blue Color" src="color_imgs/blue.png" height=24/>
+Purple       | `#6550eb` | ``    | ``  | <img alt="Purple Color" src="color_imgs/purple.png" height=24/>
+Magenta      | `#ff59c5` | ``    | ``  | <img alt="Magenta Color" src="color_imgs/magenta.png" height=24/>
+Cyan         | `#54a7f0` | ``    | ``  | <img alt="Cyan Color" src="color_imgs/cyan.png" height=24/>
+White        | `#f8f8f2` | ``    | ``  | <img alt="White Color" src="color_imgs/white.png" height=24/>
+Grey         | `#949494` | ``    | ``  | <img alt="Grey Color" src="color_imgs/grey.png" height=24/>
   
 </div>
 
