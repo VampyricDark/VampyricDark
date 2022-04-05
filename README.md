@@ -10,7 +10,7 @@
   <p align="center">
      A dark theme for all platforms.
     <br />
-    <a href="https://github.com/RaphGL/VampyricDark"><strong>Explore the available themes»</strong></a>
+    <a href="https://github.com/VampyricDark/VampyricDark"><strong>Explore the available themes»</strong></a>
     <br />
     <br />
     <a href="https://github.com/VampyricDark/VampyricDark/issues">Report Bug</a>
